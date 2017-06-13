@@ -41,7 +41,7 @@ public class ShowOwerWork {
 			listOfIp.add(ip);
 
 		}
-System.out.println(listOfIP.size());
-System.out.println(listOfIp.get(listOfIP.size()-1));
+System.out.println(listOfIp.size());
+System.out.println(listOfIp.get(listOfIp.size()-1));
 	}
 }
